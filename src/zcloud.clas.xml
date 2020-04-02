@@ -18,6 +18,12 @@
      <LANGU>E</LANGU>
      <DESCRIPT>Check Method</DESCRIPT>
     </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCLOUD</CLSNAME>
+     <CMPNAME>CHECK2</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check 2</DESCRIPT>
+    </SEOCOMPOTX>
    </DESCRIPTIONS>
   </asx:values>
  </asx:abap>

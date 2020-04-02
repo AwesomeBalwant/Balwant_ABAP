@@ -6,6 +6,7 @@ class ZCLOUD definition
 public section.
 
   methods CHECK .
+  methods CHECK2 .
 protected section.
 private section.
 ENDCLASS.
@@ -22,4 +23,12 @@ METHOD check.
 
   MOVE 'A' TO lv_a.
 ENDMETHOD.
+
+
+method CHECK2.
+
+data: lv_c type c.
+
+move 'C' to lv_c.
+endmethod.
 ENDCLASS.
